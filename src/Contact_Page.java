@@ -1,6 +1,9 @@
 public class Contact_Page {
 
     //fb
-    //twit
+    //twit\\
+    //insta
+    //ytb
+    //gmail
 
 }
