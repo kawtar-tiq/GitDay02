@@ -8,4 +8,6 @@ public class Sales {
 
     // commit sales items
     // changes changes....
+    // added holidays sales 25%
+    //deals
 }
